@@ -1,7 +1,5 @@
 package HelloMyoden
 
-import "fmt"
-
-func HappyUrayasu() {
-	fmt.Println("Happy Urayasu")
+func HappyUrayasu() string {
+	return "Happy Urayasu"
 }

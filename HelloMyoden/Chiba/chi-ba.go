@@ -1,7 +1,6 @@
 package chiba
 
-import "fmt"
-
-func Chiba() {
-	fmt.Println("Chi-ba kun")
+func Chiba() string {
+	return "Chi-ba kun"
 }
+
